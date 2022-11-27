@@ -1,2 +1,2 @@
-public class DashboardForm {
+public class DashboardForm {//dashboard
 }
